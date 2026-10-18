@@ -3,16 +3,16 @@
 	url = https://github.com/fnc12/sqlite_orm.git
 [submodule "lib/xtime_cpp"]
 	path = lib/xtime_cpp
-	url = https://github.com/NewYaroslav/xtime_cpp.git
+	url = https://github.com/LimiNode/xtime_cpp.git
 [submodule "lib/ImGuiColorTextEdit"]
 	path = lib/ImGuiColorTextEdit
-	url = https://github.com/NewYaroslav/ImGuiColorTextEdit.git
+	url = https://github.com/LimiNode/ImGuiColorTextEdit.git
 [submodule "lib/ztime-cpp"]
 	path = lib/ztime-cpp
-	url = https://github.com/NewYaroslav/ztime-cpp.git
+	url = https://github.com/LimiNode/ztime-cpp.git
 [submodule "lib/siphash-hpp"]
 	path = lib/siphash-hpp
-	url = https://github.com/NewYaroslav/siphash-hpp.git
+	url = https://github.com/LimiNode/siphash-cpp.git
 [submodule "lib/zstd"]
 	path = lib/zstd
 	url = https://github.com/facebook/zstd.git
